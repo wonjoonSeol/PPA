@@ -1,1 +1,1 @@
-http://www.kcl.ac.uk/nms/depts/informatics/study/current/handbook/Progs/Modules/4CCS1PPA.aspx
+PPA(Programming Practice and Applications) is a first-year programming module taught at King's.
